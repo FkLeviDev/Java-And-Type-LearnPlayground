@@ -4,5 +4,5 @@ btn1?.addEventListener("click", async () => {
   BarProp("Hello there");
 });
 btn2?.addEventListener("click", async () => {
-  return document.createElement(DataView);
+  BarProp("Hello there");
 });
